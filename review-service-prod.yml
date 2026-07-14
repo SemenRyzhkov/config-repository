@@ -8,4 +8,4 @@ spring:
     show_sql: false # Выключаем показ sql запросов
     properties:
       hibernate:
-        format_sql: false
+        format_sql: true
